@@ -1,1 +1,1 @@
-#this is just a samplke code ofr htm
+#yolov5 based navigation code for disabled ppl 
